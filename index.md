@@ -1,5 +1,5 @@
 ﻿# Smart Mirror
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+ The Smart Mirror is a mirror that can show you useful information such as the time, date, weather, news, and important reminders at a glance. It utilizes a 2 way reflective acrylic to show the user's reflection and the monitor screen in the same area. This allows the user to view their reflection along with useful information simultaneously, making it more convienent for the user when getting ready.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
