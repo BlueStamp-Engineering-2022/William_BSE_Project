@@ -1,5 +1,5 @@
 ﻿# Smart Mirror
- The Smart Mirror is a mirror that can show you useful information such as the time, date, weather, news, and important reminders at a glance. It utilizes a 2 way reflective acrylic to show the user's reflection and the monitor screen in the same area. This allows the user to view their reflection along with useful information simultaneously, making it more convienent for the user when getting ready.
+ The Smart Mirror is a mirror that can show the user useful information such as the time, date, weather, news, and important reminders at a glance. It utilizes a 2 way reflective acrylic to show the user's reflection and the monitor screen in the same area. This allows the user to view their reflection along with useful information simultaneously, making it more convienent for the user when getting ready.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
