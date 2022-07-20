@@ -26,5 +26,6 @@ For my first milestone, I have completed the software portion of the Smart Mirro
 
 # Starter Project
 
-For my starter project, I did the TV-B-Gone. The TV-B-Gone uses IR LEDs to send a infrared light signal to the TV, turning it off.
+For my starter project, I did the TV-B-Gone. The TV-B-Gone consists of  IR LEDs, transistors, capacitors, resistors, a microcontroller, a green LED and a button to  replicate a signal that a tv remote sends to turn the tv off. The IR LEDs are used to send a infrared light signal to the TV, turning it off. The green LED flashes when the circuit is working and does not flash when the circuit does not work, making it very useful for debugging. I enjoyed learning how to solder the parts to the circuit board. I struggled with soldering the wire to the circuit board, as the wire kept falling off the circuit. However, with persistance, I was finally able to solder the wires to the circuit board.
+
 [![Starter Project](https://i3.ytimg.com/vi/uO682gK_Y7w/maxresdefault.jpg)](https://youtu.be/uO682gK_Y7w)
