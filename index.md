@@ -3,7 +3,7 @@
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| William Sui | Hillsdale High School | Mechanical Engineering | Incoming Senior
+| William | Hillsdale High School | Mechanical Engineering | Incoming Senior
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLVwc2fE1EweWxtpTwMnHTOQYOMP92PLq6d3NSLVdZxv1nr3swOnlMtwx-PQ37DukGqz2x2VlDKSCoeW3jjr-bc_Tw8vLUWjLkPhnuX3Vq3uXJw5FukyHCAtm3vfyOGQjatGO7LEwbKA4FAWvV78zhc=s866-no?authuser=0)
   
