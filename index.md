@@ -16,7 +16,9 @@
 # Second Milestone
 For my second milestone, I completed the hardware portion of the Smart Mirror. I used geometry to determine the measurements needed to create the frame for the smart mirror. I used a push hand saw to cut large planks of wood into smaller pieces. I then used an electrical drill to drill holes into the wood, then used an impact drill to drill screws into the holes to assemble the frame. I also used wood glue to hold smaller pieces of wood together. After I finished creating the frame, I then stained it using brown wood stain to make the smart mirror look better. I used a screwdriver to take the stand off of the monitor so it could fit into the frame, then installed a backboard on the monitor. Then, I started working on the glass of the smart mirror. The glass consists of two layers of acrylic, a tough, clear acrylic and a much thinner, fragile sheet of 2-way reflective acrylic. The clear acrylic would reduce the warping of the mirror image by holding the reflective acrylic between it and the monitor screen. I first cut the reflective sheet of acrylic into the correct size. I then placed the reflective acrylic and clear acrylic on top of the monitor screen, then taped them together. I placed the monitor into the frame and used drills to drill screws into the backboard to hold the monitor in place. I then connected the Raspberry Pi to the monitor to finish the Smart Mirror. I enjoyed learning how to use a push saw to cut large planks of wood. I struggled with using the drills at first, as I had trouble accurately drilling in the screws. However, with more practice, I was able to improve on using the drill.
 
-[![Third Milestone](https://i3.ytimg.com/vi/3TNGsAN1RY8/maxresdefault.jpg)](https://youtu.be/3TNGsAN1RY8 "Second Milestone")
+[![Third Milestone](https://i3.ytimg.com/vi/3TNGsAN1RY8/maxresdefault.jpg)](https://youtu.be/3TNGsAN1RY8 "Second Milestone")![IMG-2905](https://user-images.githubusercontent.com/107721203/180563509-73de09cc-4dcb-4aab-9d9a-cc357145b0c6.jpg)![IMG-2906](https://user-images.githubusercontent.com/107721203/180563631-b993aee8-702b-4307-9d67-2d73df00976b.jpg)
+
+
 
 # First Milestone  
 
